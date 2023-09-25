@@ -3,7 +3,3 @@
 
 - 💬 Ask me about **react**
 - 📫 How to reach me **yablochnikovnikita@gmail.com**
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yablochnikov&show_icons=true&locale=en" alt="yablochnikov" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yablochnikov&" alt="yablochnikov" /></p>
